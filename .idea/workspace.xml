@@ -2,25 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d06c4d52-1aba-4f42-b29a-1988f2609abc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lifecycle/mouting/m1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lifecycle/unmouting/um1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lifecycle/updating/u1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lifecycle/updating/u2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routing/About.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routing/Dashboard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routing/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routing/Wp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routing/router.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/propAsFunction.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/st1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/st2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/st3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/st4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/st4A.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/st4B.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forms/f2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forms/f3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forms/f4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forms/f5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forms/forms/f0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forms/forms/f1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forms/forms/f2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forms/forms/f3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forms/forms/f4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forms/forms/f5.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +44,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/forms/forms" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -61,6 +53,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Student\WebstormProjects\programator_react\src\forms" />
       <recent name="C:\Users\Student\WebstormProjects\programator_react\src" />
       <recent name="C:\Users\Student\WebstormProjects\programator_react\src\state" />
       <recent name="C:\Users\Student\WebstormProjects\programator_react\src\props" />
@@ -113,7 +106,7 @@
       <updated>1579943063507</updated>
       <workItem from="1579943067335" duration="2719000" />
       <workItem from="1579946737841" duration="14428000" />
-      <workItem from="1580026172078" duration="13398000" />
+      <workItem from="1580026172078" duration="19771000" />
     </task>
     <task id="LOCAL-00001" summary="idea">
       <created>1579947543368</created>
@@ -136,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579963554004</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit">
+      <created>1580040518735</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580040518735</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,10 +148,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="598" y="119" key="CommitChangelistDialog2" timestamp="1579963553325">
+    <state x="670" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580047290772">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="598" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579963553325" />
+    <state x="670" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580047290772" />
+    <state x="598" y="119" key="CommitChangelistDialog2" timestamp="1580040517928">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="598" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580040517928" />
     <state width="1899" height="266" key="GridCell.Tab.0.bottom" timestamp="1579946718460">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
