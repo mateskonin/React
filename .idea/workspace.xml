@@ -1,28 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d06c4d52-1aba-4f42-b29a-1988f2609abc" name="Default Changelist" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/JSX/indexClass.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JSX/indexFunc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JSX/simpleTest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JSX/table.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JSX/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/props/prop1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/props/prop2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/props/prop3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/props/prop4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/props/prop5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/props/props6.js" afterDir="false" />
+    <list default="true" id="d06c4d52-1aba-4f42-b29a-1988f2609abc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lifecycle/mouting/m1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lifecycle/unmouting/um1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lifecycle/updating/u1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lifecycle/updating/u2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routing/About.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routing/Dashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routing/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routing/Wp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routing/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/propAsFunction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/st1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/st2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/st3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/st4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/st4A.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/st4B.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/props" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -61,14 +60,15 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Student\WebstormProjects\programator_react\src" />
+      <recent name="C:\Users\Student\WebstormProjects\programator_react\src\state" />
+      <recent name="C:\Users\Student\WebstormProjects\programator_react\src\props" />
+      <recent name="C:\Users\Student\WebstormProjects\programator_react\src\JSX" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Student\WebstormProjects\programator_react\src" />
       <recent name="C:\Users\Student\WebstormProjects\programator_react\src\JSX" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Student\WebstormProjects\programator_react\src\props" />
-      <recent name="C:\Users\Student\WebstormProjects\programator_react\src\JSX" />
-      <recent name="C:\Users\Student\WebstormProjects\programator_react\src" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -112,7 +112,8 @@
       <option name="presentableId" value="Default" />
       <updated>1579943063507</updated>
       <workItem from="1579943067335" duration="2719000" />
-      <workItem from="1579946737841" duration="14263000" />
+      <workItem from="1579946737841" duration="14428000" />
+      <workItem from="1580026172078" duration="13398000" />
     </task>
     <task id="LOCAL-00001" summary="idea">
       <created>1579947543368</created>
@@ -128,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579947742970</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit">
+      <created>1579963554004</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579963554004</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,10 +148,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="598" y="119" key="CommitChangelistDialog2" timestamp="1579947767310">
+    <state x="598" y="119" key="CommitChangelistDialog2" timestamp="1579963553325">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="598" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579947767310" />
+    <state x="598" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579963553325" />
     <state width="1899" height="266" key="GridCell.Tab.0.bottom" timestamp="1579946718460">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -160,17 +168,16 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579946718460" />
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1579947771804">
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1579963562161">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579947771804" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579963562161" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/props/prop1.js</url>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
