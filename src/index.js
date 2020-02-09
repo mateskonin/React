@@ -1,8 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-import MyForm from "./forms/forms/f6";
+import Calc from "./Praca09.02/cwiczenie3/calc";
 
 
-ReactDOM.render(<MyForm/>, document.getElementById("root"));
-
+ReactDOM.render(<Calc/>, document.getElementById("root"));
